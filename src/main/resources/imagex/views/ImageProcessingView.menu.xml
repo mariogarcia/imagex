@@ -1,0 +1,5 @@
+<menuBar>
+    <execute
+        toolBarGroup="1"
+        icon="viewa/widget/icon/fam/cog.png"/>
+</menuBar>

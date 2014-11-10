@@ -1,0 +1,5 @@
+<menuBar>
+    <application>
+        <exit keyStroke="CTRL_E"/>
+    </application>
+</menuBar>
